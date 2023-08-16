@@ -11,7 +11,7 @@ redirect_from:
 <h3>Website Under Reconstruction, Will Update Soon</h3>
 
 <br/>
-<p style="text-align:justify;"> Asif Ahmed Neloy is a <b>Business & Data Science</b> professional specializing in Machine Learning, passionate about uncovering insights from complex data. With a <b>Master of Science</b> degree in Computer Science from the <b>University of Manitoba</b>, Asif has extensive experience in machine learning tools, including data structures, clustering and classification, natural language processing, and unravelling business decisions. 
+<p style="text-align:justify;"> Asif Ahmed Neloy is a <b>Lecturer</b> at the <b>Vancouver Island University</b>. Asif is a <b>Business & Data Science</b> professional specializing in Machine Learning, passionate about uncovering insights from complex data. With a <b>Master of Science</b> degree in Computer Science from the <b>University of Manitoba</b>, Asif has extensive experience in machine learning tools, including data structures, clustering and classification, natural language processing, and unravelling business decisions. 
 
 <br/>
 <br/>
