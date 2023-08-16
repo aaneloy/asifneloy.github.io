@@ -20,9 +20,9 @@ Asif's multidisciplinary research area encompasses a broad domain of <b>Supervis
 </p>
 
 
-<p style="text-align:justify;">
-<h3>Quick Overview of Asif's Works and Careers:</h3>
 
+<h3>Quick Overview of Asif's Works and Careers:</h3>
+<p style="text-align:justify;">
 <ul>
           <li> More than two years experience in Academic Teaching, three years experience in Data Analytics, Data Science, Statistical Analysis, Fundamental Machine Learning and Business Analytics</li>
           <li> Recent Open source contributions: <a href="https://pypi.org/project/DataScalerSelector/" target="_blank">DataScalerSelector</a>, <a href="https://pypi.org/project/ImagetoSketch/" target="_blank">ImagetoSketch</a> and Data Preparer (On-Progress)</li>
@@ -33,9 +33,9 @@ Asif's multidisciplinary research area encompasses a broad domain of <b>Supervis
 </ul>
 </p>
 
-<p style="text-align:justify;">
-<h3>Recent News and Updates</h3>
 
+<h3>Recent News and Updates</h3>
+<p style="text-align:justify;">
 <ul>
           <li> [May 2023] Promoted to Senior ML Engineer, Forum Inc</li>
           <li> [February 2023] Lastest Published Conference Paper - <a href="https://doi.org/10.1109/ICDMW58026.2022.00064">Feature Extraction and Prediction of Combined Text and Survey Data using Two-Staged Modeling</a></li>
