@@ -37,6 +37,7 @@ Asif's multidisciplinary research area encompasses a broad domain of <b>Supervis
 <h3>Recent News and Updates</h3>
 <p style="text-align:justify;">
 <ul>
+          <li> [August 2023] Started my new journey as a <b>Faculty Member</b>, at the Vancouver Island University.</li>
           <li> [May 2023] Promoted to Senior ML Engineer, Forum Inc</li>
           <li> [February 2023] Lastest Published Conference Paper - <a href="https://doi.org/10.1109/ICDMW58026.2022.00064">Feature Extraction and Prediction of Combined Text and Survey Data using Two-Staged Modeling</a></li>
           <li> [January 2023] My Msc dissertation, <a href="https://doi.org/10.1109/ICDMW58026.2022.00064">Dimension Reduction and Anomaly Detection using Unsupervised Machine</a> is now online</li>
